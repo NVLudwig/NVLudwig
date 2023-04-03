@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NVLudwig
+- 👋 Hi, I’m Ludwig
 - 👀 I’m interested in Design systems
 - 🌱 I’m currently learning Figma, UNO Design system, and Figma plug ins
 - 💞️ I’m looking to collaborate on UNO Design system

@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ludwig
 - 👀 I’m interested in Design systems
-- 🌱 I’m currently learning Figma, UNO Design system, and Figma plug ins
-- 💞️ I’m looking to collaborate on UNO Design system
+- 🌱 I’m currently learning Figma, Uno Design system, and Figma plugin
+- 💞️ I’m looking to collaborate on Uno Design system
 - 📫 How to reach me ludwig@platform.uno
 
 <!---

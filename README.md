@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ludwig
 - 👀 I’m interested in Design systems
-- 🌱 I’m always learning Figma, Uno Design system, and Uno Figma plugin
+- 🌱 I’m always learning Ai, Figma, Uno Design system, and Uno Figma plugin
 - 💞️ I’m looking to collaborate on Uno Design system, MCP and plugins
 - 📫 How to reach me ludwig@platform.uno
 
